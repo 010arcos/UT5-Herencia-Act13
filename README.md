@@ -1,1 +1,1 @@
-Para acceder a la actv 13 primera  --- src > act13
+Para acceder a la actv 13 primero  --- src > act13
