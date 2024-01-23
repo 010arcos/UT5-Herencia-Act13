@@ -34,7 +34,7 @@ public class Main {
             System.out.println("Volumen del cilindro: " + cilindro1.getVolumen());
 
         }while (true);
-        // Ejemplo de uso
+
 
     }
 }
