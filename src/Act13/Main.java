@@ -6,7 +6,6 @@ public class Main {
     public static void main(String[] args) {
         boolean salir= false;
 
-
         do {
             Scanner sc= new Scanner(System.in);
             System.out.println("-------------------------");
